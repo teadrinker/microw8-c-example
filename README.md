@@ -1,7 +1,7 @@
 This is a C example for [MicroW8](https://exoticorn.github.io/microw8/), including build scripts, util funcs.
 Music player and visualization using [Micromod](https://github.com/martincameron/micromod) by Martin Cameron.
 
-I do not really know much in depth about Clang or web assembly, 
+I do not really know much in depth about Clang or WebAssembly, 
 so consider this random hacks and notes from the development of 
 our demo [RE:FORM](https://demozoo.org/productions/371274/).
 
@@ -45,5 +45,5 @@ for sync, even though it uses a lot of global variables.
 
 To get some more samples into RE-FORM, I used lz compression for 
 patterns and samples (and some samples use my compressed-in-memory-format).
-But ideally for audio, you would use a lossy format like [QOA](https://github.com/phoboslab/qoa) or [pulsejet](https://yupferris.github.io/blog/2021/06/07/pulsejet-sample-compression-codec-for-64k.html)
-
+But ideally for audio, you would use a lossy format like [QOA](https://github.com/phoboslab/qoa) or [pulsejet](https://yupferris.github.io/blog/2021/06/07/pulsejet-sample-compression-codec-for-64k.html).
+I would love to see someone with a mature 64k toolchain take on this platform!
