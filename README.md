@@ -6,6 +6,9 @@ Music player and visualization using [Micromod](https://github.com/martincameron
 I do not really know much in depth about Clang or WebAssembly, 
 so consider this random hacks and notes from the development of 
 our demo [RE:FORM](https://demozoo.org/productions/371274/).
+Note that there is also a [longer write-up about making the demo](https://teadrinker.net/blog/re-form.html).
+
+### Setup
 
 You'll need:
  * [uw8.exe](https://github.com/exoticorn/microw8/releases) - place it in the same dir as this readme file
