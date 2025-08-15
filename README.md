@@ -65,4 +65,4 @@ But ideally for audio, you would use a lossy format like [QOA](https://github.co
 Would love to see more demos on this platform!
 
 ### CurlyWas
-If you want to make very small intros, you probably want to look into [CurlyWas](https://github.com/exoticorn/curlywas), the native language of the MicroW8 platform (infix C-like syntax but closer to Web Assembly). There is source and a write up of a 256k intro [here](https://github.com/teadrinker/party-acceleration?tab=readme-ov-file#party-acceleration) 
+If you want to make very small intros, you probably want to look into [CurlyWas](https://github.com/exoticorn/curlywas), the native language of the MicroW8 platform (infix C-like syntax but closer to Web Assembly). There is source and a write up of a 256b intro [here](https://github.com/teadrinker/party-acceleration?tab=readme-ov-file#party-acceleration) 
